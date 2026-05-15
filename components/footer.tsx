@@ -11,7 +11,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
           {/* Brand Section */}
           <div>
-            <h3 className="text-2xl font-bold text-accent mb-4">Amerikai Futball</h3>
+            <h3 className="text-2xl font-bold text-accent mb-4">Hungaryamericanfutball</h3>
             <p className="text-foreground/70 text-sm leading-relaxed">
               Fedezd fel az amerikai futball faszinálóan világát modern, interaktív tartalommal.
             </p>

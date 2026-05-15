@@ -21,7 +21,7 @@ export function Header() {
             href="/" 
             className="text-2xl md:text-3xl font-bold text-accent hover:opacity-80 transition-opacity"
           >
-            hungaryamericanfutball.com
+            hungaryamericanfutball
           </Link>
 
           {/* Desktop Navigation */}
