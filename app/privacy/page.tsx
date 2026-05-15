@@ -18,7 +18,7 @@ export default function PrivacyPage() {
           <div className="flex-1">
             <h1 className="text-5xl md:text-6xl font-bold mb-4">Adatvédelmi Szabályzat</h1>
             <p className="text-lg text-foreground/70">
-              Utolsó módosítás: {new Date().getFullYear()} január
+              Utolsó módosítás: {new Date().getFullYear()}
             </p>
           </div>
           <div className="hidden lg:block flex-1 relative h-64 rounded-lg overflow-hidden">
